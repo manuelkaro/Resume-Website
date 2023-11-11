@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Emmanuel Oghenekaro's Resume</title>
+</head>
+<body>
+
+<h1>Emmanuel Oghenekaro</h1>
+<p>McDonough GA, 30252<br>
+<a href="mailto:Emmanuelogkaro@gmail.com">Emmanuelogkaro@gmail.com</a><br>
+470-661-9634</p>
+
+<h2>Profile Summary</h2>
+<p>Overall 2+ years of Data Analyst experience in Design, Modeling, Development, Implementation, and analyzing data. A versatile analyst with excellent understanding and proficiency in platforms for effective data analyses, including MySQL, Tableau, and Python...</p>
+
+<h2>Education</h2>
+<p><strong>Georgia Southern University</strong><br>
+Graduated May 2023<br>
+Bachelor of Business Administration, Information Systems</p>
+
+<h2>Related Courses</h2>
+<ul>
+<li>Business Intelligence</li>
+<li>Machine Learning for business</li>
+<!-- Add other courses here -->
+</ul>
+
+<h2>Key Skills</h2>
+<!-- Add your key skills here -->
+
+<h2>Technical Skills</h2>
+<!-- Add your technical skills here -->
+
+<h2>Certifications</h2>
+<p>Oracle Cloud Infrastructure 2023 Foundations Associate (1Z0-1085-23)<br>
+Achieved: August 18th, 2023</p>
+
+<h2>Work Experience</h2>
+<h3>Taskimpetus Inc. | Data Specialist | January 2023 –Present</h3>
+<!-- Add responsibilities here -->
+
+<h3>Starship Technology | Robotics Optimization Associate | January 2022 - December 2022</h3>
+<!-- Add responsibilities here -->
+
+<h2>Projects</h2>
+<h3>E-commerce Sales Analysis Dashboard</h3>
+<!-- Add details here -->
+
+<h3>Credit Card Application Fraud Detection</h3>
+<!-- Add details here -->
+
+<h3>Sales Forecasting and Inventory Optimization</h3>
+<!-- Add details here -->
+
+</body>
+</html>
